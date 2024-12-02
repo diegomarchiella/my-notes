@@ -1,8 +1,6 @@
 ---
 title: Welcome to Quartz
 ---
-Benvenuti!
 
-Qui sono presenti tutti gli appunti di [[tpi]]
-
-Qui sono presenti tutti gli appunti di [[sri]]
+This is a blank Quartz installation.
+See the [documentation](https://quartz.jzhao.xyz) for how to get started.
