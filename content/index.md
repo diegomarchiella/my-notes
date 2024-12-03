@@ -6,7 +6,7 @@ In questa pagina saranno presenti tutti gli appunti di SRI e TPI
 
 ### **SRI**
 
-[[cavi]]
+[[memoria_ram]]
 
 
 ### **TPI**
