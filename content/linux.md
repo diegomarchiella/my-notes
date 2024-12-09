@@ -1,4 +1,4 @@
-rDiego Marchiella 4FI 2024/25
+Diego Marchiella 4FI 2024/25
 
 [[index]]
 # ***COMANDI LINUX***
