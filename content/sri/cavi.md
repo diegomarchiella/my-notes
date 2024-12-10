@@ -1,4 +1,5 @@
 [[index]]
+[[SRI]]
 ## Cavi di Comunicazione
 
 1. **Cavi Coassiali**:

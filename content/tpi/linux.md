@@ -1,6 +1,6 @@
-Diego Marchiella 4FI 2024/25
 
 [[index]]
+[[TPI]]
 # ***COMANDI LINUX***
 
 ```pwd```: Stampa il percorso della directory corrente.
