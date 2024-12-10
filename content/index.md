@@ -13,3 +13,4 @@ In questa pagina saranno presenti tutti gli appunti di SRI e TPI
 
 [[linux]]
 [[memoria_ram]]
+[[sistema_operativo]]
